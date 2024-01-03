@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DemoRazorPages
+build_property.RootNamespace = DemoRazorPages
+build_property.ProjectDir = E:\Back-up 04.01.2022\Documents\UVV\Cursos\DemoRazorPages\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Back-up 04.01.2022\Documents\UVV\Cursos\DemoRazorPages
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Alunos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Alunos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Alunos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Alunos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Alunos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-up 04.01.2022/Documents/UVV/Cursos/DemoRazorPages/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h7youvfjpo
