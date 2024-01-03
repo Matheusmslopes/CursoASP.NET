@@ -1,4 +1,4 @@
-using DemoMvc.Data
+using DemoMvc.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
