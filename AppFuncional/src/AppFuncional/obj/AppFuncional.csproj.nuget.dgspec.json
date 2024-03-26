@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Back-up 04.01.2022\\Documents\\UVV\\Cursos\\AppFuncional\\src\\AppFuncional\\AppFuncional.csproj": {}
+    "C:\\Cursos\\CursoASP.NET\\AppFuncional\\src\\AppFuncional\\AppFuncional.csproj": {}
   },
   "projects": {
-    "E:\\Back-up 04.01.2022\\Documents\\UVV\\Cursos\\AppFuncional\\src\\AppFuncional\\AppFuncional.csproj": {
+    "C:\\Cursos\\CursoASP.NET\\AppFuncional\\src\\AppFuncional\\AppFuncional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Back-up 04.01.2022\\Documents\\UVV\\Cursos\\AppFuncional\\src\\AppFuncional\\AppFuncional.csproj",
+        "projectUniqueName": "C:\\Cursos\\CursoASP.NET\\AppFuncional\\src\\AppFuncional\\AppFuncional.csproj",
         "projectName": "AppFuncional",
-        "projectPath": "E:\\Back-up 04.01.2022\\Documents\\UVV\\Cursos\\AppFuncional\\src\\AppFuncional\\AppFuncional.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\Back-up 04.01.2022\\Documents\\UVV\\Cursos\\AppFuncional\\src\\AppFuncional\\obj\\",
+        "projectPath": "C:\\Cursos\\CursoASP.NET\\AppFuncional\\src\\AppFuncional\\AppFuncional.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Cursos\\CursoASP.NET\\AppFuncional\\src\\AppFuncional\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -88,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
