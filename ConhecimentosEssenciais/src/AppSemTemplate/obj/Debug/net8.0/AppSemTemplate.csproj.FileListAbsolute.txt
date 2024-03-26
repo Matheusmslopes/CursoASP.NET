@@ -26,3 +26,5 @@ C:\Cursos\CursoASP.NET\ConhecimentosEssenciais\src\AppSemTemplate\obj\Debug\net8
 C:\Cursos\CursoASP.NET\ConhecimentosEssenciais\src\AppSemTemplate\obj\Debug\net8.0\ref\AppSemTemplate.dll
 C:\Cursos\CursoASP.NET\ConhecimentosEssenciais\src\AppSemTemplate\obj\Debug\net8.0\AppSemTemplate.RazorAssemblyInfo.cache
 C:\Cursos\CursoASP.NET\ConhecimentosEssenciais\src\AppSemTemplate\obj\Debug\net8.0\AppSemTemplate.RazorAssemblyInfo.cs
+C:\Cursos\CursoASP.NET\ConhecimentosEssenciais\src\AppSemTemplate\bin\Debug\net8.0\libman.json
+C:\Cursos\CursoASP.NET\ConhecimentosEssenciais\src\AppSemTemplate\bin\Debug\net8.0\AppSemTemplate.staticwebassets.runtime.json

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\wwwroot\\favicon.ico||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\wwwroot\\favicon.ico||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\appsemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\appsemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T23:01:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\libman.json",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\libman.json",
+              "ToolTip": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\libman.json",
+              "RelativeToolTip": "src\\AppSemTemplate\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T22:56:39.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "favicon.ico",
+              "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\favicon.ico",
+              "RelativeToolTip": "src\\AppSemTemplate\\wwwroot\\favicon.ico",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-03-26T22:53:26.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Controllers\\HomeController.cs",
@@ -43,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
@@ -51,12 +102,11 @@
               "RelativeToolTip": "src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T21:14:05.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T21:14:05.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AppSemTemplate.csproj",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\AppSemTemplate.csproj",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\AppSemTemplate.csproj",
@@ -64,18 +114,17 @@
               "RelativeToolTip": "src\\AppSemTemplate\\AppSemTemplate.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-26T21:06:00.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T21:06:00.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Program.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Program.cs",
               "ToolTip": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Program.cs",
               "RelativeToolTip": "src\\AppSemTemplate\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T21:05:02.683Z",
               "EditorCaption": ""
