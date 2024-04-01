@@ -2,7 +2,16 @@
 <html>
 <head>
     <title>@ViewData["Title"] - AppSemTemplate</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+
+    <environment exclude="Development">
+        <link rel="stylesheet" href="~/css/site.min.css" />
+    </environment>
+
 </head>
 <body>
     <header>
@@ -33,6 +42,15 @@
         </div>
     </footer>
 
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <environment include="Development">
+        <script src="~/lib/bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="~/js/site.js"></script>
+        <script src="~/js/cep.js"></script>
+    </environment>
+
+    <environment exclude="Development">
+        <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.min.js"></script>
+    </environment>
 </body>
 </html>
