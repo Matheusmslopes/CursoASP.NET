@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\images\\CSS.jpg",
+      "PackagePath": "staticwebassets\\images\\CSS.jpg"
+    },
+    {
+      "Id": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\images\\HTML.jpg",
+      "PackagePath": "staticwebassets\\images\\HTML.jpg"
+    },
+    {
+      "Id": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\images\\JQuery.jpg",
+      "PackagePath": "staticwebassets\\images\\JQuery.jpg"
+    },
+    {
+      "Id": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\images\\Razor.jpg",
+      "PackagePath": "staticwebassets\\images\\Razor.jpg"
+    },
+    {
       "Id": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\js\\cep.js",
       "PackagePath": "staticwebassets\\js\\cep.js"
     },
