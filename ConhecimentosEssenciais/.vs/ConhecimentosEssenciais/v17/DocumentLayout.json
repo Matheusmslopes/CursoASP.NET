@@ -3,28 +3,31 @@
   "WorkspaceRootPath": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus\\AppData\\Local\\Temp\\Rar$DRa18956.19824.rartemp\\M02A07 - Desenvolvendo um View Component\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Components\\CounterViewComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Migrations\\20240403013317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AppSemTemplate\\Migrations\\20240403013317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\appsemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\appsemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\migrations\\20240403013317_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\migrations\\20240403013317_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +37,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CounterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\AppData\\Local\\Temp\\Rar$DRa18956.19824.rartemp\\M02A07 - Desenvolvendo um View Component\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Components\\CounterViewComponent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Matheus\\AppData\\Local\\Temp\\Rar$DRa18956.19824.rartemp\\M02A07 - Desenvolvendo um View Component\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Components\\CounterViewComponent.cs",
+              "ToolTip": "C:\\Users\\Matheus\\AppData\\Local\\Temp\\Rar$DRa18956.19824.rartemp\\M02A07 - Desenvolvendo um View Component\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Components\\CounterViewComponent.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Matheus\\AppData\\Local\\Temp\\Rar$DRa18956.19824.rartemp\\M02A07 - Desenvolvendo um View Component\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Components\\CounterViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:56:55.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20240403013317_InitialCreate.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Migrations\\20240403013317_InitialCreate.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Migrations\\20240403013317_InitialCreate.cs",
@@ -46,25 +62,23 @@
               "RelativeToolTip": "src\\AppSemTemplate\\Migrations\\20240403013317_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T01:33:17.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T01:33:17.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppSemTemplate",
+              "DocumentIndex": 4,
+              "Title": "AppSemTemplate.csproj",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\AppSemTemplate.csproj",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\AppSemTemplate.csproj",
               "ToolTip": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\AppSemTemplate.csproj",
               "RelativeToolTip": "src\\AppSemTemplate\\AppSemTemplate.csproj",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-03T01:31:13.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T01:31:13.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Data\\AppDbContext.cs",
@@ -72,8 +86,7 @@
               "RelativeToolTip": "src\\AppSemTemplate\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:20:23.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T23:20:23.242Z"
             },
             {
               "$type": "Document",
@@ -85,31 +98,30 @@
               "RelativeToolTip": "src\\AppSemTemplate\\Extensions\\BotaoTagHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:42:04.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T22:42:04.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
               "ToolTip": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
               "RelativeToolTip": "src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-02T22:41:18.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Program.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Program.cs",
               "ToolTip": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Program.cs",
               "RelativeToolTip": "src\\AppSemTemplate\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T22:30:42.114Z",
               "EditorCaption": ""

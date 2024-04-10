@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NovaPasta\**" />
+    <Content Remove="NovaPasta\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
+    <None Remove="NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <_ContentIncludedByDefault Remove="wwwroot\css\site.min.css" />
   </ItemGroup>
 
@@ -20,6 +27,7 @@
     <None Include="Views\Produtos\Details.cshtml" />
     <None Include="Views\Produtos\Edit.cshtml" />
     <None Include="Views\Produtos\Index.cshtml" />
+    <None Include="Views\Shared\Components\Counter\Default.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
