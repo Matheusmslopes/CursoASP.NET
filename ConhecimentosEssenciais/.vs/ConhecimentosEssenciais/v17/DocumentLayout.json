@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\appsemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\appsemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\cursos\\cursoasp.net\\conhecimentosessenciais\\src\\appsemtemplate\\appsemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{06569BBF-2F89-4B69-9E1C-BA39F786150D}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\appsemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T18:35:20.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Controllers\\ProdutosController.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "src\\AppSemTemplate\\Controllers\\ProdutosController.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAwwCwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T22:17:46.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T22:17:46.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AppSemTemplate.csproj",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\AppSemTemplate.csproj",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\AppSemTemplate.csproj",
@@ -59,11 +75,12 @@
               "RelativeToolTip": "src\\AppSemTemplate\\AppSemTemplate.csproj",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-03T01:31:13.858Z"
+              "WhenOpened": "2024-04-03T01:31:13.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Data\\AppDbContext.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BotaoTagHelper.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Extensions\\BotaoTagHelper.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Extensions\\BotaoTagHelper.cs",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Cursos\\CursoASP.NET\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Program.cs",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Program.cs",

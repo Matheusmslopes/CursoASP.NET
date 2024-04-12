@@ -18,10 +18,22 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Modulos\Produtos\Data\" />
+    <Folder Include="Modulos\Produtos\Models\" />
+    <Folder Include="Modulos\Vendas\Data\" />
+    <Folder Include="Modulos\Vendas\Models\" />
     <Folder Include="wwwroot\lib\" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Modulos\Produtos\Views\Cadastro\Index.cshtml" />
+    <None Include="Modulos\Produtos\Views\Shared\_Layout.cshtml" />
+    <None Include="Modulos\Produtos\Views\_ViewImports.cshtml" />
+    <None Include="Modulos\Produtos\Views\_ViewStart.cshtml" />
+    <None Include="Modulos\Vendas\Views\Gestao\Index.cshtml" />
+    <None Include="Modulos\Vendas\Views\Shared\_Layout.cshtml" />
+    <None Include="Modulos\Vendas\Views\_ViewImports.cshtml" />
+    <None Include="Modulos\Vendas\Views\_ViewStart.cshtml" />
     <None Include="Views\Produtos\Create.cshtml" />
     <None Include="Views\Produtos\Delete.cshtml" />
     <None Include="Views\Produtos\Details.cshtml" />

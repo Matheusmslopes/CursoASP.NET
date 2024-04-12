@@ -18,6 +18,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Cursos\CursoASP.NET\ConhecimentosEssenciais\src\AppSemTemplate
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Modulos/Produtos/Views/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xDYWRhc3Ryb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Modulos/Produtos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Modulos/Produtos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Modulos/Produtos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Modulos/Vendas/Views/Gestao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xWZW5kYXNcVmlld3NcR2VzdGFvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Modulos/Vendas/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xWZW5kYXNcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Modulos/Vendas/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xWZW5kYXNcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Modulos/Vendas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xWZW5kYXNcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Cursos/CursoASP.NET/ConhecimentosEssenciais/src/AppSemTemplate/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
